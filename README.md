@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=1380&t=st=1669987480~exp=1669988080~hmac=357c81a35f6e03a3dd4561b998cda0a16fa5d2d243d11171192e785aa7b474fb)]
+![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=1380&t=st=1669987480~exp=1669988080~hmac=357c81a35f6e03a3dd4561b998cda0a16fa5d2d243d11171192e785aa7b474fb)
 <h1 align="center">Hi 👋, I'm Jaydeep Sathwara</h1>
 <h3 align="center">A Computer Engineering Student</h3>
 
