@@ -7,7 +7,7 @@ src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c8
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydeepsathwara&label=Profile%20views&color=0e75b6&style=flat" alt="jaydeepsathwara" /> </p>
 
-- 🔭 I’m currently working on **Laravel**
+- 🔭 I’m currently working with **Laravel**
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
